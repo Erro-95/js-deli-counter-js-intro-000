@@ -22,5 +22,4 @@ function currentLine(katzDeliLine){
     return string.slice(0, string.length - 1)
   }
   return 'The line is currently empty.'
-
 }
